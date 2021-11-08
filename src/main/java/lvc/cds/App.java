@@ -8,6 +8,7 @@ public final class App {
 
     public static void main(String[] args) {
         // testing how effective the robinhood hashing is
+        
         tableComparison();
 
         /**
